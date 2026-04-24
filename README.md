@@ -1,4 +1,4 @@
-# 👋 Hi, I'm DevPulse Star
+# 👋 Hi, I'm Mizuki
 
 🚀 Passionate developer exploring code, creativity, and innovation
 💻 Building projects that blend technology with real-world impact
